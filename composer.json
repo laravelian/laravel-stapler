@@ -3,6 +3,12 @@
     "description": "Easy file upload management for the Laravel Framework.",
     "keywords": ["laravel", "file", "upload", "S3", "AWS", "stapler", "paperclip"],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/laravelian/stapler"
+        }
+    ],
     "authors": [
         {
             "name": "Travis Bennett",
